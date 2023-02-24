@@ -35,7 +35,7 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-  schedule:
+ 
     
 
   # Allows you to run this workflow manually from the Actions tab
